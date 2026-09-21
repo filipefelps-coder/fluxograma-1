@@ -4,40 +4,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="55_LoV1Avva9X-LEckt4-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inicío" vertex="1">
+        <mxCell id="55_LoV1Avva9X-LEckt4-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" value="inicio" vertex="1">
           <mxGeometry height="80" width="120" x="160" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="55_LoV1Avva9X-LEckt4-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ler p1,p2,p3,p4" vertex="1">
+        <mxCell id="55_LoV1Avva9X-LEckt4-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="ler p1,p2,p3,p4" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="55_LoV1Avva9X-LEckt4-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="55_LoV1Avva9X-LEckt4-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="219.5" y="190" as="sourcePoint" />
             <mxPoint x="219.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55_LoV1Avva9X-LEckt4-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="55_LoV1Avva9X-LEckt4-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="219.5" y="330" as="sourcePoint" />
             <mxPoint x="219.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55_LoV1Avva9X-LEckt4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="média=(P1+P2+P3+P4) /4" vertex="1">
+        <mxCell id="55_LoV1Avva9X-LEckt4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="media=(P1+P2+P3+P4) /4" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="55_LoV1Avva9X-LEckt4-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="55_LoV1Avva9X-LEckt4-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="219.5" y="470" as="sourcePoint" />
             <mxPoint x="219.5" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55_LoV1Avva9X-LEckt4-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="fim&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="55_LoV1Avva9X-LEckt4-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" value="fim&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="160" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="55_LoV1Avva9X-LEckt4-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever média&amp;nbsp;" vertex="1">
+        <mxCell id="55_LoV1Avva9X-LEckt4-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="escrever media&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="55_LoV1Avva9X-LEckt4-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="55_LoV1Avva9X-LEckt4-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="219.5" y="615" as="sourcePoint" />
             <mxPoint x="219.5" y="695" as="targetPoint" />
