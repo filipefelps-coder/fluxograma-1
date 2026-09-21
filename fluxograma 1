@@ -31,7 +31,7 @@
             <mxPoint x="219.5" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55_LoV1Avva9X-LEckt4-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+        <mxCell id="55_LoV1Avva9X-LEckt4-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="fim&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="160" y="700" as="geometry" />
         </mxCell>
         <mxCell id="55_LoV1Avva9X-LEckt4-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever média&amp;nbsp;" vertex="1">
